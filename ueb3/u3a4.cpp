@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-#define MAX 155000
+#define MAX 160000
 
 /*-----------------------------------------*/
 void BubbleSortMax(unsigned int a[]);

@@ -105,4 +105,6 @@ int main()
         cout << "Cycle found." << endl;
     }
     else cout << "No Cycle found." << endl;
+
+    return 0;
 }
